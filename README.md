@@ -1,5 +1,8 @@
 # JoystickComposeApp
-Joystick Compose App is an example of using the "JoystickComposeView" module written for use in compose projects.  
+Joystick Compose App is an example of using the "JoystickComposeView" module written for use in compose projects.
+<div style="text-align:center">
+<img src="result/demonstration_app.gif" width="200" height="400"/>
+</div>
 
 ## Usage
 Quick Usage  
