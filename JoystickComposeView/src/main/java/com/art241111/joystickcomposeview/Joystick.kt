@@ -1,4 +1,4 @@
-package com.art241111.joystick
+package com.art241111.joystickcomposeview
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectDragGestures
@@ -17,7 +17,7 @@ import androidx.compose.ui.input.pointer.consumeAllChanges
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.*
-import com.art241111.joystick.utils.toFloat
+import com.art241111.joystickcomposeview.utils.toFloat
 import kotlin.math.roundToInt
 
 /**
@@ -34,7 +34,7 @@ import kotlin.math.roundToInt
  * @author Artem Gerasimov (gerasimov.av.dev@gmail.com)
  */
 @Composable
-fun Joystick(
+fun JoystickView(
     modifier: Modifier = Modifier,
     x: MutableState<Float>? = null,
     y: MutableState<Float>? = null,

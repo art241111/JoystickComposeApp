@@ -1,4 +1,4 @@
-package com.art241111.joystick.utils
+package com.art241111.joystickcomposeview.utils
 
 import android.content.Context
 import androidx.compose.ui.unit.Dp

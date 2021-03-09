@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "JoystickComposeApp"
 include ':app'
-include ':joystick'
+include ':JoystickComposeView'

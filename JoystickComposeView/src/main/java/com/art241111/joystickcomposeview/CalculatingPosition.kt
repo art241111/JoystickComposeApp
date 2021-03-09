@@ -1,8 +1,8 @@
-package com.art241111.joystick
+package com.art241111.joystickcomposeview
 
 import androidx.compose.runtime.MutableState
 import androidx.compose.ui.geometry.Offset
-import com.art241111.joystick.data.Position
+import com.art241111.joystickcomposeview.data.Position
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlin.math.atan2
